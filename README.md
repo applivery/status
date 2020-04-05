@@ -1,1 +1,1 @@
-Visit this site at https://applivery.github.io/status/
+# Visit https://status.applivery.com/
